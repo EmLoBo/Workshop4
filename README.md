@@ -1,2 +1,1 @@
-# Workshop4
-ToDo App with TimeTracker
+ToDo App with TimeTracker- aplikacja do zarządzania czasem
